@@ -1,0 +1,96 @@
+@import "common/style/index.scss";
+///////////////////////////////////////
+.NavigationHeader {
+	padding: 10px;
+	font-size: 30px;
+	text-align: left;
+	background-color: $antiBackground;
+	color: white;
+}
+.NavigationButton {
+	background-color: white;
+	border-right: 1px solid $backgroundSelected;
+	transition: background-color .2s linear, color .2s linear;
+}
+///////////////////////////////////////
+.NavigationSectionList {
+	float: left;
+	max-width: 180px;
+	margin-right: 15px;
+	background-color: white;
+	margin-bottom: 15px;
+	z-index: 1000;
+}
+.NavigationSection {
+	display: block;
+}
+.NavigationLink {
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px
+}
+///////////////////////////////////////
+.NavigationTop {
+	width: 100%;
+	border-bottom: 1px solid $backgroundSelected;
+}
+///////////////////////////////////////
+
+
+///////////////////////////////////////
+@media screen and (max-width: 576px) {
+	.NavigationSectionList {
+		position: absolute;
+		left: 0;
+		transition: left .4s linear;
+		border: 1px solid #F0F0F0;
+    border-top: 1px solid #F0F0F0;
+    border-left: 0px;
+	}
+	.NavigationSectionList.navigation-responsive-hide {
+		left: -190px;
+	}
+	.NavigationSection {
+		border-bottom: 1px solid $backgroundSelected;
+		background-color: white;
+		z-index: 1000;
+	}
+	.NavigationSection:last-child {
+		border-bottom: 0px solid $backgroundSelected;
+	}
+	.NavigationBar.isSelected .NavigationButton {
+		background-color: #333;
+		color: white;
+	}
+}
+///////////////////////////////////////
+@media screen and (min-width: 577px) {
+	.NavigationSectionList {
+		position: relative;
+		border-right: 1px solid $backgroundSelected;
+		border-bottom: 1px solid $backgroundSelected;
+		bottom: 0;
+		height: 100%;
+	}
+}
+
+.NavigationBackground {
+	background-color: black;
+}
+
+.NavigationButton:hover {
+	background-color: #EFEFEF;
+}
+
+.NavigationSection:hover {
+	background-color: #333;
+	color: white;
+}
+
+.NavigationSection.isSelected {
+	background-color: $backgroundSelected;
+	color: inherit;
+}
+.NavigationSection.isSelected a {
+	cursor: default;
+}

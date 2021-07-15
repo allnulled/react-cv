@@ -1,0 +1,95 @@
+{
+    "experiences": [
+        {
+            "company": "Euromaster",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap.",
+                "server": "Tomcat. Java EE. Maven. JSP. Spring. Apache POI. Hibernate. PostgreSQL.",
+                "others": "Scrum methodology."
+            },
+            "tasks": {
+                "client": "Formularios. Eventos. Cross-browser. Responsive. Estilos.",
+                "server": "Lectura Excels. Generación PDF.",
+                "others": "Scrum. Equipo de 8 personas. Posibilidad de trabajar desde casa."
+            }
+        },
+        {
+            "company": "Didal.com Serveis Dinàmics, SLU",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap",
+                "server": "PHP5. SQL Server.",
+                "others": "WebStorm."
+            },
+            "tasks": {
+                "client": "Interfaces. Consumo de servicios web. Mantenimiento.",
+                "server": "Queries. Mantenimiento.",
+                "others": "En cliente final."
+            }
+        },
+        {
+            "company": "Zemsania Development / Everis / FCB",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap.",
+                "server": "Java EE. JSP. JSTL. Maven. Velocity. Liferay. Portlets.",
+                "others": "Subversion. JIRA. Confluence."
+            },
+            "tasks": {
+                "client": "Interfaces. Widgets. Guía de estilos. Migración.",
+                "server": "Servicios web. Trackeo de perfiles de redes sociales. Migración.",
+                "others": "Canvan. Equipo de 5 personas."
+            }
+        },
+        {
+            "company": "E-Tic / Grupo Godó",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap.",
+                "server": "Java EE. JSP. JSTL. Maven. Spring. JUnit. XPath. XQuery.",
+                "others": "Subversion."
+            },
+            "tasks": {
+                "client": "Interfaces. Widgets. Guía de estilos y SEO.",
+                "server": "Servicios web. Consultas BBDD XML.",
+                "others": "Canvan."
+            }
+        },
+        {
+            "company": "Esmadata / Control Sistemes / Gros Monserrat",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap.",
+                "server": "MySQL. SQL Server. PHP. Composer. Laravel. Wordpress. Joomla. Drupal. Qlikview. Visual Basic. Sage Murano/Despachos.",
+                "others": ""
+            },
+            "tasks": {
+                "client": "Interfaces. Widgets. Responsive. Servicios web.",
+                "server": "Servicios web. Plugins CMS. Temas CMS. Módulos ERP. Consultas. Actualización de datos. Resolución de bugs.",
+                "others": ""
+            }
+        },
+        {
+            "company": "SirionDev",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap. AngularJS.",
+                "server": "PHP. Composer. Laravel. PHPUnit. Doctrine. Joomla. Swagger.",
+                "others": "Git."
+            },
+            "tasks": {
+                "client": "Colaboraciones puntuales.",
+                "server": "Servicios web.",
+                "others": "Reuniones periódicas en inglés con equipo de Boston, India y China."
+            }
+        },
+        {
+            "company": "Passnfly",
+            "technologies": {
+                "client": "HTML. CSS. JS. jQuery. Bootstrap. AngularJS. React/Redux. QUnit.",
+                "server": "Swagger. Python. Flask. Microservicios.",
+                "others": "Git. CasperJS."
+            },
+            "tasks": {
+                "client": "Aplicaciones web responsivas.",
+                "server": "Documentación. Colaboración.",
+                "others": "Scrum. Daily scrums en inglés con equipo de Sri Lanka."
+            }
+        }
+    ]
+}

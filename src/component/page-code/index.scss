@@ -1,0 +1,19 @@
+.CodeBlock {
+	display: table;
+	margin-top: 8px;
+}
+.CodeLink {
+	display: table-cell;
+}
+.CodeIcon {
+	vertical-align: middle;
+	width: 70px;
+	border-radius: 7pt;
+	border: 1px solid #EFEFEF;
+}
+.CodeIconText {
+	display: table-cell;
+	vertical-align: middle;
+	padding-left: 15px;
+	font-size: 12px;
+}

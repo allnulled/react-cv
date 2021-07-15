@@ -1,0 +1,49 @@
+.ExperienceTable {
+	float: left;
+	margin-top: 15px;
+	max-height: 450px;
+	border: 1px solid #efefef;
+	text-align: center;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+.ExperienceTable > thead > tr > th {
+	border-top: 0px;
+	border-bottom: 0px;
+	background-color: #D0D0FF;
+	vertical-align: top;
+	text-transform: uppercase;
+	text-align: center;
+	border-left: 1px dashed #333;
+	border-bottom: 3px solid white;
+
+}
+.ExperienceTable th,
+.ExperienceTable td {
+	border-left: 1px dashed #333;
+}
+
+/* width */
+.ExperienceTable::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+
+/* Track */
+.ExperienceTable::-webkit-scrollbar-track {
+  background: #e0e0FF; 
+  border-left: 1px solid #efefef;
+}
+
+/* Handle */
+.ExperienceTable::-webkit-scrollbar-thumb {
+  width: 10px;
+  background: #333;
+  border-radius: 4pt;
+}
+
+/* Handle on hover */
+.ExperienceTable::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}

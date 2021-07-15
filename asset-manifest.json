@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d0c053d.chunk.css",
+    "main.js": "/static/js/main.987d1045.chunk.js",
+    "main.js.map": "/static/js/main.987d1045.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.ec83dd2c.chunk.css": "/static/css/2.ec83dd2c.chunk.css",
+    "static/js/2.a3d6a733.chunk.js": "/static/js/2.a3d6a733.chunk.js",
+    "static/js/2.a3d6a733.chunk.js.map": "/static/js/2.a3d6a733.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bd9934d13c4de5d69023187c295afc4e.js": "/precache-manifest.bd9934d13c4de5d69023187c295afc4e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ec83dd2c.chunk.css.map": "/static/css/2.ec83dd2c.chunk.css.map",
+    "static/css/main.0d0c053d.chunk.css.map": "/static/css/main.0d0c053d.chunk.css.map",
+    "static/media/index.scss": "/static/media/Roboto-Regular.18d44f79.ttf",
+    "static/media/flag-es.png": "/static/media/flag-es.f13cb292.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.jpg": "/static/media/github.24b62548.jpg",
+    "static/media/heart.png": "/static/media/heart.300dcbaa.png",
+    "static/media/npm.jpeg": "/static/media/npm.be45c799.jpeg",
+    "static/media/slide-animals.jpg": "/static/media/slide-animals.2d848fb4.jpg",
+    "static/media/slide-code.jpg": "/static/media/slide-code.68770e0c.jpg",
+    "static/media/slide-sport.jpg": "/static/media/slide-sport.6378ac80.jpg",
+    "static/media/telephone.png": "/static/media/telephone.6c69f4db.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.aef93b35.png"
+  }
+}
